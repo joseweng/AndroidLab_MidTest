@@ -293,7 +293,7 @@ int[] viewIDs = { android.R.id.text1, R.id.text2 };
 
 
 #### 运行结果
-![]()
+![](https://github.com/joseweng/AndroidLab_MidTest/blob/master/screenshot/%E6%97%B6%E9%97%B4%E6%88%B3.png?raw=true)
 ### 2.查询功能实现
 #### 添加图标
 我们在顶部的菜单栏添加一个查询的图标，找到list_option_menu.xml，添加代码如下：
