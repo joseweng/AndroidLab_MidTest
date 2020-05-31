@@ -382,7 +382,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 
 #### 运行结果
-![]()
+![](https://github.com/joseweng/AndroidLab_MidTest/blob/master/screenshot/%E6%9F%A5%E8%AF%A2.png?raw=true)
 
 
 
