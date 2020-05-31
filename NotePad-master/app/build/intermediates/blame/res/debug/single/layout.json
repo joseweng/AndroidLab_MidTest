@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchlist_item.xml",
+        "source": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\src\\main\\res\\layout\\searchlist_item.xml"
+    },
+    {
+        "merged": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_search.xml",
+        "source": "D:\\android-code\\labs\\Lab\\NotePad-master\\app\\src\\main\\res\\layout\\note_search.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\note_editor.xml"
+    }
+]
